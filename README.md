@@ -10,6 +10,15 @@
 
 ---
 
+## 🛠️ Repository Quick Links
+
+If GitHub takes too long to load the full Jupyter Notebook preview, use these direct links to view the interactive analysis or jump straight into the production script:
+
+* 📓 **[Data Exploration Notebook](./Bank_Transaction_Propensity_Modeling.ipynb):** Step-by-step EDA, feature engineering, and model training. *(If GitHub fails to load the preview, **[click here to view it instantly on Google Colab](https://colab.research.google.com/github/puravi-predicts/bank-transaction-propensity-modeling/blob/main/Bank_Transaction_Propensity_Modeling.ipynb)**)*.
+* 🐍 **[Production Pipeline Script](./pipeline.py):** Clean, code-only Python script executing the modular model tuning and training pipeline instantly on GitHub.
+
+---
+
 ## 📌 Business Objective
 
 Financial institutions lose significant revenue when potential transacting customers go unidentified. This project builds a **production-grade propensity model** to predict whether a bank customer will execute a future transaction — enabling proactive engagement, targeted outreach, and revenue capture.
